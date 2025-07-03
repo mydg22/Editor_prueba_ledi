@@ -1,0 +1,4 @@
+Flask
+Flask-Cors
+openai # O google-generativeai si estás usando Gemini
+gunicorn # Necesario para que Render corra la app Flask en producción
